@@ -1,0 +1,15 @@
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\StackLinkedList.exe
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\StackLinkedList.deps.json
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\StackLinkedList.runtimeconfig.json
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\StackLinkedList.dll
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\ref\StackLinkedList.dll
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\bin\Debug\net6.0\StackLinkedList.pdb
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.csproj.AssemblyReference.cache
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.AssemblyInfoInputs.cache
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.AssemblyInfo.cs
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.dll
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\ref\StackLinkedList.dll
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.pdb
+C:\Users\Mahdi\Desktop\StackLinkedList\StackLinkedList\obj\Debug\net6.0\StackLinkedList.genruntimeconfig.cache
